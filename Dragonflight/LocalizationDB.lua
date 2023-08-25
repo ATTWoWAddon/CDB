@@ -972,7 +972,7 @@ localize(L.HEADER_ICONS, {
 	[-1000031] = _.asset("Interface_Rewards"),
 	[-1000033] = _.asset("Category_Secrets"),
 	[-1000034] = "Interface/Icons/achievement_transmog_collections",
-	[-1000035] = "Interface/Icons/Inv_archaeology_70_starlightbeacon",
+	[-1000035] =  _.asset("Interface_Special"),
 	[-1000036] = _.asset("Interface_Tchest"),
 	[-1000037] = _.asset("Interface_Vendor"),
 	[-1000039] = "3753381",
@@ -1216,7 +1216,7 @@ localize(L.HEADER_ICONS, {
 	[-1000292] = _.asset("Holiday_Pirate"),
 	[-1000293] = "Interface/Icons/calendar_secretsofazerothstart",
 	[-1000294] = "Interface/Icons/inv_misc_fish_06",
-	[-1000295] = "236445",
+	[-1000295] = _.asset("Holiday_GnomeRun"),
 	[-1000297] = _.asset("Difficulty_Timewalking"),
 	[-1000298] = _.asset("Holiday_Trialofstyle"),
 	[-1000299] = "Interface/Icons/inv_misc_celebrationcake_01",
@@ -1415,7 +1415,7 @@ L.FILTER_ID_TYPES = {
 }
 L.FILTER_ID_ICONS = {
 	[1] = "Interface/Icons/inv_misc_orb_01",
-	[2] = "Interface/Icons/Ability_Mage_IceForm",
+	[2] = _.asset("Interface_Cosmetic"),
 	[3] = "Interface/Icons/inv_misc_cape_11",
 	[4] = "Interface/Icons/inv_chest_cloth_21",
 	[5] = "Interface/Icons/inv_chest_leather_09",
