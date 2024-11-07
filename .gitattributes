@@ -1,0 +1,6 @@
+Cata/Categories.lua filter=lfs diff=lfs merge=lfs -text
+Classic/Categories.lua filter=lfs diff=lfs merge=lfs -text
+Mists/Categories.lua filter=lfs diff=lfs merge=lfs -text
+Retail/Categories.lua filter=lfs diff=lfs merge=lfs -text
+TBC/Categories.lua filter=lfs diff=lfs merge=lfs -text
+Wrath/Categories.lua filter=lfs diff=lfs merge=lfs -text
